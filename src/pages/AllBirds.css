@@ -1,0 +1,41 @@
+#bird{
+    width: 100%;
+   padding-top:10px;
+   padding-bottom:50px;
+}
+a{
+    text-decoration: none;
+    font-family: 'Preahvihear', sans-serif; 
+   
+}
+.homeButton{
+    margin-left: 90%;
+    margin-bottom: 50px;
+    margin-top: 50px;
+}
+.AddBirds{
+   
+    padding-left: 480px;
+   
+}
+
+
+video :hover{
+    transform:scale(1.3);
+    z-index:1;
+    padding-left: 1%;
+}
+video{
+    padding:5%;
+    box-sizing: border-box;
+}
+Link{
+    color:brown;
+}
+  
+.allDetail{
+    align-self: center;
+    border-radius: 5px;
+    background-color:rgb(30, 146, 192)
+    
+}

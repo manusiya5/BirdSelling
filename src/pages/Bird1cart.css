@@ -1,0 +1,29 @@
+.cartimage{
+    width: 70%;
+    height: 400px;
+    padding: 50px;
+
+}
+.cartDetails{
+  padding: 50px ;
+}
+
+.basket{
+  font-size: 50px;
+  margin-left: 90%;
+}
+
+.happyBuying{
+  font-family: 'Times New Roman', Times, serif;
+  color: rgb(102, 120, 121);
+}
+
+.cartcanva{
+  width: 200px;
+}
+
+.arrow{
+  font-size: 50px;
+  color: black;
+  padding-left: 15px;
+}

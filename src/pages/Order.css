@@ -1,0 +1,32 @@
+.orderDate{
+  padding: 5%;
+  border-radius: 13px;
+
+  font-family: 'Times New Roman', Times, serif; 
+  color: rgb(32, 31, 29);
+ 
+}
+.order{
+  padding: 50px;
+   align-items: center;   
+   margin-left: 300px;
+   margin-right: 300px;
+   margin-top: 100px;
+
+}
+.cash{
+  font-family: 'Times New Roman', Times, serif;
+  color: rgb(223, 96, 117);
+}
+.orderButton{
+  text-align: center;
+  font-family: 'Times New Roman', Times, serif;
+  border-radius: 10px;
+  border-style: groove;
+  padding: 10px;
+  font-size: 25px;
+  background-color: white(172, 240, 141);
+}
+.orderButton{
+  margin-left: 70%;
+}
